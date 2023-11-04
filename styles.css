@@ -46,6 +46,9 @@ li{
     display: inline;
     margin-right:10px;
 }
+a:hover{
+    color: blue;
+}
 
 #photo0{
     float: left; 
@@ -152,7 +155,7 @@ li{
     display: inline-block;
     padding-left: 10%;
     position: absolute;
-    top: 1200px;
+    top: 1000px;
 }
 
 .cta .btn{
@@ -163,6 +166,9 @@ li{
     padding: 10px 20px;
     display: inline-block;
     
+}
+.testing .btn:hover{
+    background-color: darkgreen;
 }
 
 .stories{
@@ -226,6 +232,10 @@ input[type=email] {
     display: inline-block;
     text-align: center;
     border: none;
+}
+
+.newsletter .btn:hover{
+    background-color: darkblue;
 }
 .message{
     width: 45%;
