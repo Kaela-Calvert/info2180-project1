@@ -43,11 +43,12 @@ ul{
 
 li{
     font-size: 18px;
+    color: #6b7280;
     display: inline;
     margin-right:10px;
 }
 a:hover{
-    color: blue;
+    color: #5A67D8;
 }
 
 #photo0{
@@ -107,7 +108,7 @@ a:hover{
     padding:20px;
     text-align:left;
     width: 250px;
-    border-radius:1%;
+    border-radius:5px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 .learn-about{
@@ -115,10 +116,12 @@ a:hover{
 }
 .learn-about h3{
     color: #48bb78;
+    font-size: 21px;
 }
 .learn-about h2{
     color: #48bb78;
     padding-left: 10%;
+    font-size: 24px;
 }
 
 .testing{
